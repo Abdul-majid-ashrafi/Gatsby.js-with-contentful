@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from '../components/layout';
-import '../style/style.css'
+import '../style/index.scss'
 
 // you dont need to create routes you can use file name;
 
