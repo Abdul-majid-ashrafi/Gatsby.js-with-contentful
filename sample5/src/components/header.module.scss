@@ -1,0 +1,19 @@
+.header{
+    padding: 1rem 0 3rem;
+}
+
+.nav{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+}
+
+.link{
+    color: #999999;
+    margin-right: 1.3rem;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #666666;
+}
